@@ -12,7 +12,7 @@ Open 2 split terminals.
    * cd Backend
    * npm start
 2. To run the Frontend
-   * cd [Project Name (Assessment-7)]
+   * cd [Project Name (Bachelor)]
    * cd Frontend/app
    * npm install
    * npm start
