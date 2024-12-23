@@ -1,5 +1,8 @@
 # Bachelor Project
 
+## Link contains the Bachelor Thesis and Powerpoint explaining evreything about the project. 
+https://drive.google.com/drive/folders/1Za--OrDntKuxkX-gBSU33bGCylVKblOi?usp=sharing
+
 ## Step 1:
 Open project on vscode platform.
 ## Step 2:
